@@ -37,5 +37,5 @@ A comprehensive, enterprise-grade desktop management application designed to han
 
 ### 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdelghani-boukermouche-2605aa254/)
-- 📧 **Email:** [your.email@example.com](mailto:gboukermouche@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/abdelghani-boukermouche-2605aa254/)
+- 📧 **Email:** [](mailto:gboukermouche@gmail.com)

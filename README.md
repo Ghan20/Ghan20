@@ -33,6 +33,29 @@ A comprehensive, enterprise-grade desktop management application designed to han
 - 🏥 Developing an advanced **Hospital Management System** to deeply implement advanced Data Structures and explore clean architectural patterns.
 - ⚡ Deep-diving into modern **.NET Web API** development to build scalable RESTful backend services.
 
+### 🛠️ Tech Stack & Skills
+
+#### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-blue?style=for-the-badge)
+
+#### 🚀 Frameworks & Technologies
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET Core / WebAPI](https://img.shields.io/badge/.NET%20Core%20%2F%20WebAPI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-purple?style=for-the-badge)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-darkblue?style=for-the-badge)
+
+#### ⚙️ Architecture & Practices
+![OOP](https://img.shields.io/badge/OOP-Object--Oriented-blue?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-green?style=for-the-badge)
+![N-Tier Architecture](https://img.shields.io/badge/Architecture-3--Tier%20%2F%20N--Tier-orange?style=for-the-badge)
+
+#### 🧰 Tools & Environments
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ### 🤝 Connect With Me

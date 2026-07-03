@@ -37,8 +37,5 @@ A comprehensive, enterprise-grade desktop management application designed to han
 
 ### 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/abdelghani-boukermouche-2605aa254/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-icons/social/linkedin.svg" alt="LinkedIn" width="35" height="35" />
-</a>
-
-- 📧 **Email:** [](mailto:gboukermouche@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/abdelghani-boukermouche-2605aa254/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gboukermouche@gmail.com)

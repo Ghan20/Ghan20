@@ -15,26 +15,6 @@ Having successfully completed an intensive, production-grade software engineerin
 - **Tools & OS:** Visual Studio, Git & GitHub, Windows, Ubuntu Linux
 
 ---
-
-### 📂 Featured Portfolio Projects
-
-#### 🚗 1. DVLD (Driver & Vehicle Licensing Department) System
-A comprehensive, enterprise-grade desktop management application designed to handle the complex workflows of a driver and vehicle licensing department.
-- **Architecture:** Built using a strict **3-Tier Architecture** (Presentation, Business Logic, and Data Access Layers) ensuring absolute separation of concerns.
-- **Database Power:** Designed a robust relational SQL Server database utilizing complex **T-SQL Stored Procedures**, views, and advanced indexing for rapid data retrieval.
-- **Key Features:** User authentication, role-based permissions, application processing, license issuance, renewals, detaining/releasing management, and automated fine calculations.
-- **🔗 [View Repository](https://github.com/yourusername/DVLD-Project)**
-
-
-
-
-
-### 📈 What I'm Working On Now
-- 🏥 Developing an advanced **Hospital Management System** to deeply implement advanced Data Structures and explore clean architectural patterns.
-- ⚡ Deep-diving into modern **.NET Web API** development to build scalable RESTful backend services.
-
-### 🛠️ Tech Stack & Skills
-
 #### 💻 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
